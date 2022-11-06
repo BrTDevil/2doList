@@ -1,0 +1,14 @@
+{
+    "name": "trazvan/2do-list",
+    "description": "Simple to do list",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Razvan Traian",
+            "email": "razvan.traian.ro@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
