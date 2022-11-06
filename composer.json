@@ -9,6 +9,10 @@
             "email": "razvan.traian.ro@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "require": {}, 
+    "autoload": {
+        "psr-4": { 
+            "trazvan\\": "src/"
+        }
+    }
 }
